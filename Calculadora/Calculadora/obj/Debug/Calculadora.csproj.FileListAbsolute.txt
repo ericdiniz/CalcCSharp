@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\user\Desktop\ERIC_SAUDECAIXA\estudos\PORTFOLIO\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
